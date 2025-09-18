@@ -1,0 +1,6 @@
+SOURCE_BENIGN = 'archive/benign'
+SOURCE_MALIGNANT = 'archive/malignant'
+DEST_TRAIN_BENIGN = 'data/train/benign'
+DEST_TRAIN_MALIGNANT = 'data/train/malignant'
+DEST_TEST_BENIGN = 'data/test/benign'
+DEST_TEST_MALIGNANT = 'data/test/malignant'
